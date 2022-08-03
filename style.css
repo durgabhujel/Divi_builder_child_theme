@@ -1,0 +1,23 @@
+/*
+ Theme Name:     Divi Child
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         Elegant Themes
+ Author URI:     https://www.elegantthemes.com
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+body #page-container .et_pb_section .et_pb_button_0:hover {
+    background-color: brown;
+    color: black;
+}
+
+.et_pb_button_module_wrapper {
+    display: inline-flex;
+    gap: 20px;
+}
